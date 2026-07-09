@@ -2,16 +2,17 @@
 
 ![Student](https://img.shields.io/badge/Student-AIML%20%7C%20Data%20Science-blueviolet)
 ![Python](https://img.shields.io/badge/Python-Learning-3776AB?logo=python&logoColor=white)
+## About Me
+I'm a student studying **AI/ML and Data Science**, currently building a strong foundation in Python before moving deeper into data analysis and machine learning.
 
 Learning Python from the basics as I work toward AI/ML and Data Science.
+
+This repo is where I track my progress, practice concepts, and keep my code organized as I go.
+
 ## Currently Learning
 - 📺 CS50 (Harvard) — via YouTube
 - 🐍 Python fundamentals
-This repo is where I track my progress, practice concepts, and keep my code organized as I go.
 
-## About Me
-
-I'm a student studying **AI/ML and Data Science**, currently building a strong foundation in Python before moving deeper into data analysis and machine learning.
 
 ## Topics Covered So Far
 
