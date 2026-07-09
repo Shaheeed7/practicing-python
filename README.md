@@ -13,7 +13,7 @@ I'm a student studying **AI/ML and Data Science**, currently building a strong f
 
 ## Topics Covered So Far
 
-- [ ] Variables & Data Types
+- [X] Variables & Data Types
 - [ ] Conditional Statements
 - [ ] Loops
 - [ ] Functions
